@@ -119,26 +119,44 @@ content:
           Machine Learning and Intelligence LAB (MLI) Lab under the supervision of Prof. Eunho Yang.
         # description: | # this will include new lines to allow paragraphs
         #   Description of qualification
+  - title: Publications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: 정준현, 배성호, 고속 이산 코사인 변환을 이용한 새로운 경량화 콘볼루션 신경망, 2019 한국컴퓨터종합학술대회 (KCC2019), 우수논문상
+        # link: 
+        # link_text: Paper
+        additional_links:
+          - title:  Paper Link
+            icon: fab fa-scroll
+            url: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002567043
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        title: NAVER 1784 FaceSign 
+        link: https://www.youtube.com/watch?v=uMPO9j06D7I&t=1s
+        link_text: FaceSign 개발 이야기
+        # additional_links:
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          Automatic Authentication System Based on Face Recognition
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          In a role as modeling Real-Time Face Detection & Facial Landmark Detection neural networks.
+  # - title: Talks
+  #   KCCV
+  #   경희대 진로탐색 세미나
+  #   소프트웨어야 놀자
+
   - title: Technial Blog
     layout: text
     content: | # this will include new lines to allow paragraphs
