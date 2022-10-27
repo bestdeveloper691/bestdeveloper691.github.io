@@ -67,15 +67,16 @@ content:
     content:
       - layout: right
         title: Codigm (Goorm)
-        sub_title: Software Engineer as an Intern (Web Front & Backend Engineer)
+        sub_title: Software Engineer as an Intern
         caption: Mar 2018 - Jun 2018
         link: https://goorm.co/
         # quote: >
         #   Short description of the company (optional)
-        # description: | # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraphs
+          Web Front & Backend Engineer
       - layout: right
-        title: NAVER CLOVA (Face team.)
-        sub_title: AI Research Engineer as an Intern
+        title: NAVER CLOVA
+        sub_title: AI Research Engineer as an Intern in Face Team.
         caption: Sep 2019 - Feb 2020
         link: https://clova.ai/ko
         # quote: >
@@ -83,8 +84,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           AI Model Research & Develop for Face Detection task.
       - layout: right
-        title: NAVER CLOVA (Image Vision team under the supervision of [Youngjoon Yoo](https://yjyoo3312.github.io/).)
-        sub_title: AI Research Engineer
+        title: NAVER CLOVA
+        sub_title: AI Research Engineer in Image Vision team under the supervision of Youngjoon Yoo.
         caption: May 2020 - Current
         link: https://clova.ai/ko
         # quote: >
@@ -102,7 +103,14 @@ content:
         #   Short institution or course description (optional)
         # description: | # this will include new lines to allow paragraphs
         #   Description of qualification
-    content:
+      - layout: top-right
+        title: Kyung-Hee University
+        # sub_title: Bachelor Degree, Department of Computer Science and Engineering
+        caption: Mar 2019 - Aug 2019
+        quote: >
+          Machine Learning and Visual Computing Laboratory (MLVC) Lab under the supervision of Prof. Sung-Ho Bae.
+        # description: | # this will include new lines to allow paragraphs
+        #   Description of qualification
       - layout: top-right
         title: Korea Advanced Institute of Science and Technology (KAIST)
         sub_title: Master Degree, Kim Jaechul Graduate School of AI (GSAI)
