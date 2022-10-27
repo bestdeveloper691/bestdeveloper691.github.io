@@ -67,29 +67,22 @@ content:
     content:
       - layout: right
         title: Codigm (Goorm)
-        caption: Mar 2018 - Jun 2018|
-          Software Engineer as an Intern
+        caption: Mar 2018 - Jun 2018
         link: https://goorm.co/
         description: | # this will include new lines to allow paragraphs
-          Web Front & Backend Engineer
-        # quote: >
-        #   Software Engineer as an Intern
+          Web Front & Backend Engineer / Intern
       - layout: right
         title: NAVER CLOVA
         caption: Sep 2019 - Feb 2020
         link: https://clova.ai/ko
         description: | # this will include new lines to allow paragraphs
-          AI Model Research & Develop for Face Detection task.
-        quote: >
-          AI Research Engineer as an Intern in Face Team.
+          AI Model Research & Develop for Face Detection task / Intern (Face team)
       - layout: right
         title: NAVER CLOVA
         caption: May 2020 - Current
         link: https://clova.ai/ko
-        description: | # this will include new lines to allow paragraphs
-          AI Model Research & Develop
         quote: >
-          AI Research Engineer in Image Vision team under the supervision of Youngjoon Yoo.
+          AI Research Engineer / Full-Timer in Image Vision team under the supervision of Youngjoon Yoo.
   - title: Education
     layout: list
     content:
@@ -137,7 +130,7 @@ content:
         # link_text: Paper
         additional_links:
           - title:  Paper Link
-            icon: fab fa-scroll
+            icon: fas fa-scroll
             url: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002567043
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
