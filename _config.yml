@@ -126,8 +126,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: 정준현, 배성호, 고속 이산 코사인 변환을 이용한 새로운 경량화 콘볼루션 신경망, 2019 한국컴퓨터종합학술대회 (KCC2019), 우수논문상
-        # link: 
-        # link_text: Paper
+        link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002567043
+        link_text: Paper Link.
         additional_links:
           - title:  Paper Link
             icon: fas fa-scroll
