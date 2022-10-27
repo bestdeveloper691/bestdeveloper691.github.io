@@ -114,18 +114,10 @@ content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      # - layout: top-right
-      #     title: Korea Advanced Institute of Science and Technology (KAIST)
-      #     sub_title: Master Degree, Kim Jaechul Graduate School of AI (GSAI)
-      #     caption: Sep 2022 - Current
-      #     quote: >
-      #       Machine Learning and Intelligence LAB (MLI) Lab under the supervision of Prof. Eunho Yang.
-      #     # description: | # this will include new lines to allow paragraphs
-      #     #   Description of qualification
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: 정준현, 배성호, 고속 이산 코사인 변환을 이용한 새로운 경량화 콘볼루션 신경망, 2019 한국컴퓨터종합학술대회 (KCC2019), 우수논문상
+      - layout: top-right
+        title: 고속 이산 코사인 변환을 이용한 새로운 경량화 콘볼루션 신경망
+        sub_title: 2019 한국컴퓨터종합학술대회 (KCC2019), <b>우수논문상</b>
+        caption: Joonhyun Jeong, Sung-Ho Bae
         link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002567043
         link_text: Paper Link.
         additional_links:
@@ -141,7 +133,7 @@ content:
         title: NAVER 1784 FaceSign 
         link: https://www.youtube.com/watch?v=uMPO9j06D7I&t=1s
         link_text: >
-          [Youtube]FaceSign 개발 이야기
+          [Youtube] FaceSign 개발 이야기
         # additional_links:
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #     icon: fab fa-github
