@@ -60,6 +60,7 @@ about_content: | # this will include new lines to allow paragraphs
   - Model Compression
   - Neural Architecture Search
   - Data Augmentation
+  asd
 
 content:
   - title: Experience
