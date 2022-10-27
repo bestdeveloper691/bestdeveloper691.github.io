@@ -274,7 +274,7 @@ content:
         #     icon: fab fa-github
         #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         description: | # this will include new lines to allow paragraphs
-          New Pointwise Convolution with extremely fast transformation techniques.
+          Invted talk for introducing the paper "A New Pointwise Convolution in Deep Neural Networks Through Extremely Fast and Non Parametric Transforms"
           \\
           <img src="/images/kcc_oral.png" width="300px">
   # - title: Talks
