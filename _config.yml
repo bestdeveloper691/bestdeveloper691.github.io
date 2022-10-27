@@ -67,7 +67,7 @@ content:
     content:
       - layout: right
         title: Codigm (Goorm)
-        caption: Mar 2018 - Jun 2018\\
+        caption: Mar 2018 - Jun 2018|
           Software Engineer as an Intern
         link: https://goorm.co/
         description: | # this will include new lines to allow paragraphs
@@ -103,6 +103,7 @@ content:
         #   Description of qualification
       - layout: top-right
         title: Kyung-Hee University
+        sub_title: Department of Computer Science and Engineering
         # sub_title: Bachelor Degree, Department of Computer Science and Engineering
         caption: Mar 2019 - Aug 2019
         quote: >
