@@ -140,7 +140,7 @@ content:
                       # other value (or no value) means no border will be displayed
         title: NAVER 1784 FaceSign 
         link: https://www.youtube.com/watch?v=uMPO9j06D7I&t=1s
-        link_text: \[Youtube\]FaceSign 개발 이야기
+        link_text: [Youtube]FaceSign 개발 이야기
         # additional_links:
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #     icon: fab fa-github
@@ -152,7 +152,8 @@ content:
           Automatic Authentication System Based on Face Recognition. 
         description: | # this will include new lines to allow paragraphs
           I took a role of modeling part for Real-Time Face Detection & Facial Landmark Detection, aimed for extremely fast inference without accuracy performance degradation.
-          - ![faceSign](/images/facesign.png "facesign")
+          \\
+          <img src="/images/facesign.png" width="300px">
   # - title: Talks
   #   KCCV
   #   경희대 진로탐색 세미나
