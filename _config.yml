@@ -92,7 +92,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-left
+      - layout: top-right
         title: Kyung-Hee University
         sub_title: Bachelor Degree, Department of Computer Science and Engineering
         caption: Mar 2015 - Feb 2019
@@ -100,7 +100,7 @@ content:
         #   Short institution or course description (optional)
         # description: | # this will include new lines to allow paragraphs
         #   Description of qualification
-      - layout: top-left
+      - layout: top-right
         title: Kyung-Hee University
         # sub_title: Bachelor Degree, Department of Computer Science and Engineering
         caption: Mar 2019 - Aug 2019
@@ -108,7 +108,7 @@ content:
           Machine Learning and Visual Computing Laboratory (MLVC) Lab under the supervision of Prof. Sung-Ho Bae.
         # description: | # this will include new lines to allow paragraphs
         #   Description of qualification
-      - layout: top-left
+      - layout: top-right
         title: Korea Advanced Institute of Science and Technology (KAIST)
         sub_title: Master Degree, Kim Jaechul Graduate School of AI (GSAI)
         caption: Sep 2022 - Current
