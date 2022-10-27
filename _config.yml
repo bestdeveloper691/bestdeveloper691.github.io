@@ -119,11 +119,16 @@ content:
         sub_title: 2019 한국컴퓨터종합학술대회 (KCC2019), <b>우수논문상</b>
         caption: Joonhyun Jeong, Sung-Ho Bae
         link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002567043
-        link_text: Paper Link.
-        additional_links:
-          - title:  Paper Link
-            icon: fas fa-scroll
-            url: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002567043
+        link_text: >
+          [Paper]
+        link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002567043
+        link_text: >
+          [Code]
+
+        # additional_links:
+        #   - title:  Paper Link
+        #     icon: fas fa-scroll
+        #     url: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002567043
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -151,11 +156,6 @@ content:
   #   KCCV
   #   경희대 진로탐색 세미나
   #   소프트웨어야 놀자
-
-  - title: Technial Blog
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      https://gamer691.blogspot.com/
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
