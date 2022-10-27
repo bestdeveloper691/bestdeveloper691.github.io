@@ -140,7 +140,7 @@ content:
                       # other value (or no value) means no border will be displayed
         title: NAVER 1784 FaceSign 
         link: https://www.youtube.com/watch?v=uMPO9j06D7I&t=1s
-        link_text: [Youtube] FaceSign 개발 이야기
+        link_text: FaceSign 개발 이야기
         # additional_links:
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #     icon: fab fa-github
