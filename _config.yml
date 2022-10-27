@@ -73,7 +73,6 @@ content:
         # quote: >
         #   Short description of the company (optional)
         # description: | # this will include new lines to allow paragraphs
-    content:
       - layout: right
         title: NAVER CLOVA (Face team.)
         sub_title: AI Research Engineer as an Intern
@@ -83,7 +82,6 @@ content:
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           AI Model Research & Develop for Face Detection task.
-    content:
       - layout: right
         title: NAVER CLOVA (Image Vision team under the supervision of [Youngjoon Yoo](https://yjyoo3312.github.io/).)
         sub_title: AI Research Engineer
