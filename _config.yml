@@ -115,19 +115,82 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-right
+        title: Dataset Condensation via Efficient Synthetic-Data Parameterization
+        sub_title: ICML 2022
+        caption: Jang-Hyun Kim, Jinuk Kim, Seong Joon Oh, Sangdoo Yun, Hwanjun Song, <b>Joonhyun Jeong</b>, Jung-Woo Ha, Hyun Oh Song
+        link: https://arxiv.org/abs/2205.14959
+        link_text: >
+          [Paper]
+        additional_links:
+          - title:  Code
+            icon: fab fa-github
+            url: https://github.com/snu-mllab/Efficient-Dataset-Condensation
+      - layout: top-right
+        title: >
+          EResFD: Rediscovery of the Effectiveness of Standard Convolution for Lightweight Face Detection
+        sub_title: Arxiv 2022
+        caption: Joonhyun Jeong, Beomyoung Kim, Joonsang Yu, Youngjoon Yoo
+        link: https://arxiv.org/abs/2204.01209
+        link_text: >
+          [Paper]
+        additional_links:
+          - title:  Code
+            icon: fab fa-github
+            url: https://github.com/clovaai/EResFD
+      - layout: top-right
+        title: Observations on K-image Expansion of Image-Mixing Augmentation for Classification
+        sub_title: Arxiv 2021
+        caption: Joonhyun Jeong, Sungmin Cha, Youngjoon Yoo, Sangdoo Yun, Taesup Moon, Jongwon Choi
+        link: https://arxiv.org/abs/2110.04248
+        link_text: >
+          [Paper]
+        # additional_links:
+        #   - title:  Code
+        #     icon: fab fa-github
+        #     url: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002567043
+      - layout: top-right
+        title: Bayesian Perspective on Visual Data Augmentation for Efficient Utilization of Subsampled Data
+        sub_title: ICLRW 2021 (Synthetic Data Generation Workshop)
+        caption: Joonhyun Jeong, Sungmin Cha, Youngjoon Yoo, Sangdoo Yun, Jongwon Choi
+        link: https://sdg-quality-privacy-bias.github.io/papers/SDG_paper_10.pdf
+        link_text: >
+          [Paper]
+        # additional_links:
+        #   - title:  Code
+        #     icon: fab fa-github
+        #     url: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002567043
+      - layout: top-right
+        title: An Inter-Layer Weight Prediction and Quantization for Deep Neural Networks based on a Smoothly Varying Weight Hypothesis
+        sub_title: Arxiv 2019
+        caption: Kang-Ho Lee, JoonHyun Jeong, Sung-Ho Bae
+        link: https://arxiv.org/abs/1907.06835
+        link_text: >
+          [Paper]
+        # additional_links:
+        #   - title:  Code
+        #     icon: fab fa-github
+        #     url: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002567043
+      - layout: top-right
+        title: A New Pointwise Convolution in Deep Neural Networks Through Extremely Fast and Non Parametric Transforms
+        sub_title: IEEE ACCESS
+        caption: Joonhyun Jeong, Incheon Cho, Eunseop Shin, Sung-Ho Bae
+        link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9852205
+        link_text: >
+          [Paper]
+        # additional_links:
+        #   - title:  Code
+        #     icon: fab fa-github
+        #     url: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002567043
+      - layout: top-right
         title: 고속 이산 코사인 변환을 이용한 새로운 경량화 콘볼루션 신경망
         sub_title: 2019 한국컴퓨터종합학술대회 (KCC2019), <b>우수논문상</b>
-        caption: Joonhyun Jeong, Sung-Ho Bae
+        caption: <b>Joonhyun Jeong</b>, Sung-Ho Bae
         link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002567043
         link_text: >
           [Paper]
-        link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002567043
-        link_text: >
-          [Code]
-
         # additional_links:
-        #   - title:  Paper Link
-        #     icon: fas fa-scroll
+        #   - title:  Code
+        #     icon: fab fa-github
         #     url: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002567043
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
