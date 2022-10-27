@@ -34,10 +34,10 @@ linkedin_username: doublejtoh
 # googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -67,35 +67,32 @@ content:
     content:
       - layout: right
         title: Codigm (Goorm)
-        quote: Software Engineer as an Intern
         caption: Mar 2018 - Jun 2018
         link: https://goorm.co/
-        # quote: >
-        #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Web Front & Backend Engineer
+        quote: >
+          Software Engineer as an Intern
       - layout: right
         title: NAVER CLOVA
-        quote: AI Research Engineer as an Intern in Face Team.
         caption: Sep 2019 - Feb 2020
         link: https://clova.ai/ko
-        # quote: >
-        #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           AI Model Research & Develop for Face Detection task.
+        quote: >
+          AI Research Engineer as an Intern in Face Team.
       - layout: right
         title: NAVER CLOVA
-        quote: AI Research Engineer in Image Vision team under the supervision of Youngjoon Yoo.
         caption: May 2020 - Current
         link: https://clova.ai/ko
-        # quote: >
-        #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           AI Model Research & Develop
+        quote: >
+          AI Research Engineer in Image Vision team under the supervision of Youngjoon Yoo.
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: top-left
         title: Kyung-Hee University
         sub_title: Bachelor Degree, Department of Computer Science and Engineering
         caption: Mar 2015 - Feb 2019
@@ -103,7 +100,7 @@ content:
         #   Short institution or course description (optional)
         # description: | # this will include new lines to allow paragraphs
         #   Description of qualification
-      - layout: top-right
+      - layout: top-left
         title: Kyung-Hee University
         # sub_title: Bachelor Degree, Department of Computer Science and Engineering
         caption: Mar 2019 - Aug 2019
@@ -111,7 +108,7 @@ content:
           Machine Learning and Visual Computing Laboratory (MLVC) Lab under the supervision of Prof. Sung-Ho Bae.
         # description: | # this will include new lines to allow paragraphs
         #   Description of qualification
-      - layout: top-right
+      - layout: top-left
         title: Korea Advanced Institute of Science and Technology (KAIST)
         sub_title: Master Degree, Kim Jaechul Graduate School of AI (GSAI)
         caption: Sep 2022 - Current
@@ -122,6 +119,14 @@ content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      # - layout: top-right
+      #     title: Korea Advanced Institute of Science and Technology (KAIST)
+      #     sub_title: Master Degree, Kim Jaechul Graduate School of AI (GSAI)
+      #     caption: Sep 2022 - Current
+      #     quote: >
+      #       Machine Learning and Intelligence LAB (MLI) Lab under the supervision of Prof. Eunho Yang.
+      #     # description: | # this will include new lines to allow paragraphs
+      #     #   Description of qualification
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
