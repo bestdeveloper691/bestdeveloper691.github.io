@@ -138,7 +138,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: NAVER 1784 FaceSign 
+        title: \[Youtube\]NAVER 1784 FaceSign 
         link: https://www.youtube.com/watch?v=uMPO9j06D7I&t=1s
         link_text: FaceSign 개발 이야기
         # additional_links:
@@ -152,7 +152,7 @@ content:
           Automatic Authentication System Based on Face Recognition. 
         description: | # this will include new lines to allow paragraphs
           I took a role of modeling part for Real-Time Face Detection & Facial Landmark Detection, aimed for extremely fast inference without accuracy performance degradation.
-          ![faceSign](/images/facesign.png "facesign")
+          - ![faceSign](/images/facesign.png "facesign")
   # - title: Talks
   #   KCCV
   #   경희대 진로탐색 세미나
