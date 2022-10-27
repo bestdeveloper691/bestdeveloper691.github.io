@@ -149,9 +149,10 @@ content:
         #     icon: fab fa-github
         #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Automatic Authentication System Based on Face Recognition
+          Automatic Authentication System Based on Face Recognition. 
         description: | # this will include new lines to allow paragraphs
-          In a role as modeling Real-Time Face Detection & Facial Landmark Detection neural networks.
+          I took a role of modeling part for Real-Time Face Detection & Facial Landmark Detection, aimed for extremely fast inference without accuracy performance degradation.
+          [alt text](/images/facesign.png "facesign")
   # - title: Talks
   #   KCCV
   #   경희대 진로탐색 세미나
