@@ -10,28 +10,28 @@ name: Joonhyun Jeong
 title: AI Research Engineer
 email: doublejtoh@naver.com / joonhyun.jeong@navercorp.com / joonhyun.jeong@mli.kaist.ac.kr
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+# phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: https://gamer691.blogspot.com
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+# twitter_username: jekyllrb
+github_username:  doublejtoh
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: bestdeveloper691
+# flickr_username: jekyll
+instagram_username: bestdeveloper691
+linkedin_username: doublejtoh
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# orcid_username: 0000-0000-0000-0000
+# googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
 additional_links:
