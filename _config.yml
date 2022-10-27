@@ -81,7 +81,7 @@ content:
         title: NAVER CLOVA
         caption: May 2020 - Current
         link: https://clova.ai/ko
-        quote: >
+        description: |
           AI Research Engineer / Full-Timer in Image Vision team under the supervision of Youngjoon Yoo.
   - title: Education
     layout: list
