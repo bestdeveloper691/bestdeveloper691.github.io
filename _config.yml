@@ -222,6 +222,61 @@ content:
           I took a role of modeling part for Real-Time Face Detection & Facial Landmark Detection, aimed for extremely fast inference without accuracy performance degradation.
           \\
           <img src="/images/facesign.png" width="300px">
+  - title: Talks # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Invited Talk from Naver Connect Foundation
+        link: https://www.instagram.com/p/ChT1x1tBoi7/?utm_source=ig_web_copy_link
+        link_text: >
+          [Link]
+        # additional_links:
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        description: | # this will include new lines to allow paragraphs
+          Invited talk from Naver Connect Foundation, as a mentor for undergraduate students.
+          \\
+          <img src="/images/naverconnect.png" width="300px">
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Invited Lecture in Kyung-Hee University
+        link: https://drive.google.com/file/d/1NAXx3wX3Z9LS-QkcGVU93nUpsejYF_2w/view?usp=sharing
+        link_text: >
+          [Video]
+        # additional_links:
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        description: | # this will include new lines to allow paragraphs
+          Invited lecture for career search seminar in Kyung-Hee University.
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: KCC 2019 Oral Talk 
+        link: https://www.youtube.com/watch?v=oxWYsFbrTao
+        link_text: >
+          [Youtube]
+        # additional_links:
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        description: | # this will include new lines to allow paragraphs
+          New Pointwise Convolution with extremely fast transformation techniques.
+          \\
+          <img src="/images/kcc_oral.png" width="300px">
   # - title: Talks
   #   KCCV
   #   경희대 진로탐색 세미나
