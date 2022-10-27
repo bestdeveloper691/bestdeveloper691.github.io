@@ -67,12 +67,13 @@ content:
     content:
       - layout: right
         title: Codigm (Goorm)
-        caption: Mar 2018 - Jun 2018
+        caption: Mar 2018 - Jun 2018\\
+          Software Engineer as an Intern
         link: https://goorm.co/
         description: | # this will include new lines to allow paragraphs
           Web Front & Backend Engineer
-        quote: >
-          Software Engineer as an Intern
+        # quote: >
+        #   Software Engineer as an Intern
       - layout: right
         title: NAVER CLOVA
         caption: Sep 2019 - Feb 2020
