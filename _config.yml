@@ -146,9 +146,9 @@ content:
             url: https://github.com/clovaai/EResFD
       - layout: top-right
         title: Observations on K-image Expansion of Image-Mixing Augmentation for Classification
-        sub_title: Arxiv 2021
+        sub_title: IEEE ACCESS 2023
         caption: <b>Joonhyun Jeong</b>, Sungmin Cha, Youngjoon Yoo, Sangdoo Yun, Taesup Moon, Jongwon Choi
-        link: https://arxiv.org/abs/2110.04248
+        link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10038702
         link_text: >
           [Paper]
         # additional_links:
@@ -179,7 +179,7 @@ content:
         #     url: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002567043
       - layout: top-right
         title: A New Pointwise Convolution in Deep Neural Networks Through Extremely Fast and Non Parametric Transforms
-        sub_title: IEEE ACCESS
+        sub_title: IEEE ACCESS 2022
         caption: <b>Joonhyun Jeong</b>, Incheon Cho, Eunseop Shin, Sung-Ho Bae
         link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9852205
         link_text: >
