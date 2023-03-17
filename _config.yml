@@ -115,6 +115,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-right
+        title: The Devil is in the Points: Weakly Semi-Supervised Instance Segmentation via Point-Guided Mask Representation
+        sub_title: CVPR 2023
+        caption: Beomyoung Kim, <b>Joonhyun Jeong</b>, Dongyoon Han, Sung Ju Hwang
+        link: https://openreview.net/forum?id=6VtAtwcrAH&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Dthecvf.com%2FCVPR%2F2023%2FConference%2FAuthors%23your-submissions)
+        link_text: >
+          [Paper]
+      - layout: top-right
         title: Neural Architecture Search with Loss Flatness-aware Measure
         sub_title: ICMLW 2022 (DyNN Workshop)
         caption: <b>Joonhyun Jeong</b>, Joonsang Yu, Dongyoon Han, YoungJoon Yoo
