@@ -115,9 +115,27 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-right
+        title: "EResFD: Rediscovery of the Effectiveness of Standard Convolution for Lightweight Face Detection"
+        sub_title: WACV 2024
+        caption: <b>Joonhyun Jeong</b>, Beomyoung Kim, Joonsang Yu, Youngjoon Yoo
+        link: https://arxiv.org/abs/2204.01209
+        link_text: >
+          [Paper]
+        additional_links:
+          - title:  Code
+            icon: fab fa-github
+            url: https://github.com/clovaai/EResFD
+      - layout: top-right
         title: "GeNAS: Neural Architecture Search with Better Generalization"
-        sub_title: IJCAI 2023 (Paper & Code will be available soon!)
+        sub_title: IJCAI 2023
         caption: <b>Joonhyun Jeong</b>, Joonsang Yu, Geondo Park, Dongyoon Han, Youngjoon Yoo
+        link: https://www.ijcai.org/proceedings/2023/0101.pdf
+        link_text: >
+          [Paper]
+        additional_links:
+          - title:  Code
+            icon: fab fa-github
+            url: https://github.com/clovaai/GeNAS
       - layout: top-right
         title: "The Devil is in the Points: Weakly Semi-Supervised Instance Segmentation via Point-Guided Mask Representation"
         sub_title: CVPR 2023
