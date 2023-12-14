@@ -115,6 +115,24 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-right
+        title: "Hijacking Context in Large Multi-modal Models"
+        sub_title: arxiv 2024
+        caption: <b>Joonhyun Jeong</b>
+        link: https://arxiv.org/abs/2312.07553
+        link_text: >
+          [Paper]
+      - layout: top-right
+        title: "ProxyDet: Synthesizing Proxy Novel Classes via Classwise Mixup for Open Vocabulary Object Detection"
+        sub_title: AAAI 2024
+        caption: <b>Joonhyun Jeong</b>, Geondo Park, Jayeon Yoo, Hyungsik Jung, Heesu Kim
+        link: https://arxiv.org/abs/2312.07266
+        link_text: >
+          [Paper]
+        additional_links:
+          - title:  Code
+            icon: fab fa-github
+            url: https://github.com/clovaai/ProxyDet
+      - layout: top-right
         title: "EResFD: Rediscovery of the Effectiveness of Standard Convolution for Lightweight Face Detection"
         sub_title: WACV 2024
         caption: <b>Joonhyun Jeong</b>, Beomyoung Kim, Joonsang Yu, Youngjoon Yoo
