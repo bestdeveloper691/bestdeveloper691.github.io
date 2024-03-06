@@ -116,7 +116,7 @@ content:
     content:
       - layout: top-right
         title: "Hijacking Context in Large Multi-modal Models"
-        sub_title: arxiv 2024
+        sub_title: ICLRW 2024 (R2-FM Workshop)
         caption: <b>Joonhyun Jeong</b>
         link: https://arxiv.org/abs/2312.07553
         link_text: >
