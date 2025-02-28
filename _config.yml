@@ -115,6 +115,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-right
+        title: "Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy"
+        sub_title: CVPR 2025
+        caption: <b>Joonhyun Jeong</b>, Seyun Bae, Yeonsung Jung, Jaeryong Hwang, Eunho Yang
+      - layout: top-right
         title: "Hijacking Context in Large Multi-modal Models"
         sub_title: ICLRW 2024 (R2-FM Workshop)
         caption: <b>Joonhyun Jeong</b>
