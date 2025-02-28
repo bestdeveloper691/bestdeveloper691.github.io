@@ -125,6 +125,10 @@ content:
         link: https://arxiv.org/abs/2411.00626
         link_text: >
           [Paper]
+        additional_links:
+          - title:  Code
+            icon: fab fa-github
+            url: https://github.com/naver-ai/ZIM
       - layout: top-right
         title: "Hijacking Context in Large Multi-modal Models"
         sub_title: ICLRW 2024 (R2-FM Workshop)
