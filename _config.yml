@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Joonhyun Jeong
 title: AI Research Engineer
-email: doublejtoh@naver.com / joonhyun.jeong@navercorp.com / joonhyun.jeong@mli.kaist.ac.kr
+email: joonhyun.jeong@navercorp.com / joonhyun.jeong@mli.kaist.ac.kr
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
@@ -31,7 +31,7 @@ linkedin_username: doublejtoh
 # pinterest_username: jekyll
 # youtube_username: jekyll
 # orcid_username: 0000-0000-0000-0000
-# googlescholar_username: D847cGsAAAAJ
+googlescholar_username: M3JKVIcAAAAJ
 
 # Additional icon links
 # additional_links:
@@ -54,44 +54,49 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Best Developer Enjoying Life with AI. \\
   My Research Interests are
-    - Computer Vision
+    - AI Safety
+    - GUI-Agent
     - Multi-Modal Vision-Language Models
     - Object Detection
-    - Model Compression
-    - Neural Architecture Search
-    - Data Augmentation
 
 content:
   - title: Experience
     layout: list
     content:
       - layout: right
-        title: Codigm (Goorm)
-        caption: Mar 2018 - Jun 2018
-        link: https://goorm.co/
-        description: | # this will include new lines to allow paragraphs
-          Web Front & Backend Engineer / Intern
+        title: NAVER
+        caption: May 2020 - Current
+        description: |
+          AI Research Engineer / Full-Timer in Image Vision team
       - layout: right
-        title: NAVER CLOVA
+        title: NAVER
         caption: Sep 2019 - Feb 2020
         link: https://clova.ai/ko
         description: | # this will include new lines to allow paragraphs
           AI Model Research & Develop for Face Detection task / Intern (Face team)
       - layout: right
-        title: NAVER CLOVA
-        caption: May 2020 - Current
-        link: https://clova.ai/ko
-        description: |
-          AI Research Engineer / Full-Timer in Image Vision team under the supervision of Youngjoon Yoo.
+        title: Codigm (Goorm)
+        caption: Mar 2018 - Jun 2018
+        link: https://goorm.co/
+        description: | # this will include new lines to allow paragraphs
+          Web Front & Backend Engineer / Intern
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Kyung-Hee University
-        sub_title: Bachelor Degree, Department of Computer Science and Engineering
-        caption: Mar 2015 - Feb 2019
-        # quote: >
-        #   Short institution or course description (optional)
+        title: Korea Advanced Institute of Science and Technology (KAIST)
+        sub_title: Ph.D candidate, Kim Jaechul Graduate School of AI (GSAI)
+        caption: Sep 2024 - Current
+        quote: >
+          Machine Learning and Intelligence LAB (MLI) Lab under the supervision of Prof. Eunho Yang.
+        # description: | # this will include new lines to allow paragraphs
+        #   Description of qualification
+      - layout: top-right
+        title: Korea Advanced Institute of Science and Technology (KAIST)
+        sub_title: Master Degree, Kim Jaechul Graduate School of AI (GSAI)
+        caption: Sep 2022 - Aug 2024
+        quote: >
+          Machine Learning and Intelligence LAB (MLI) Lab under the supervision of Prof. Eunho Yang.
         # description: | # this will include new lines to allow paragraphs
         #   Description of qualification
       - layout: top-right
@@ -104,11 +109,11 @@ content:
         # description: | # this will include new lines to allow paragraphs
         #   Description of qualification
       - layout: top-right
-        title: Korea Advanced Institute of Science and Technology (KAIST)
-        sub_title: Master Degree, Kim Jaechul Graduate School of AI (GSAI)
-        caption: Sep 2022 - Current
-        quote: >
-          Machine Learning and Intelligence LAB (MLI) Lab under the supervision of Prof. Eunho Yang.
+        title: Kyung-Hee University
+        sub_title: Bachelor Degree, Department of Computer Science and Engineering
+        caption: Mar 2015 - Feb 2019
+        # quote: >
+        #   Short institution or course description (optional)
         # description: | # this will include new lines to allow paragraphs
         #   Description of qualification
   - title: Publications # Title for the section
