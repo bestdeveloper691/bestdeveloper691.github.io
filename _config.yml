@@ -119,6 +119,10 @@ content:
         sub_title: CVPR 2025
         caption: <b>Joonhyun Jeong</b>, Seyun Bae, Yeonsung Jung, Jaeryong Hwang, Eunho Yang
       - layout: top-right
+        title: "ZIM: Zero-Shot Image Matting for Anything"
+        sub_title: Arxiv preprint 2025
+        caption: Beomyoung Kim, Chanyong Shin, <b>Joonhyun Jeong</b>, Hyungsik Jung, Se-Yun Lee, Sewhan Chun, Dong-Hyun Hwang, Joonsang Yu
+      - layout: top-right
         title: "Hijacking Context in Large Multi-modal Models"
         sub_title: ICLRW 2024 (R2-FM Workshop)
         caption: <b>Joonhyun Jeong</b>
