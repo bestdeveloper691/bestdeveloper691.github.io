@@ -116,11 +116,11 @@ content:
     content:
       - layout: top-right
         title: "Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy"
-        sub_title: CVPR 2025
+        sub_title: CVPR 2025 (Paper & Code coming soon!)
         caption: <b>Joonhyun Jeong</b>, Seyun Bae, Yeonsung Jung, Jaeryong Hwang, Eunho Yang
       - layout: top-right
         title: "ZIM: Zero-Shot Image Matting for Anything"
-        sub_title: Arxiv preprint 2025
+        sub_title: Arxiv 2024 (preprint)
         caption: Beomyoung Kim, Chanyong Shin, <b>Joonhyun Jeong</b>, Hyungsik Jung, Se-Yun Lee, Sewhan Chun, Dong-Hyun Hwang, Joonsang Yu
         link: https://arxiv.org/abs/2411.00626
         link_text: >
